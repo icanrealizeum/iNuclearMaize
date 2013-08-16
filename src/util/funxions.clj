@@ -29,7 +29,7 @@
 
 (defmacro get_fxn
 "
-returns a macro that when called, evaluates the value of <the symbol returned by the symbol that you passed>
+defines a macro that when called, evaluates the value of <the symbol returned by the symbol that you passed>
 => (get_fxn *fxn_defBlock_symbol* defBlock)
 
 => *fxn_defBlock_symbol*
@@ -195,7 +195,7 @@ firsta
 
 (defxn foo
   ;`[clojure.set/join ~(+ 1 2)]
-  ;if you want some form to be evaluate then place ~ before it
+  ;if you want some form to be evaluated then place ~ before it
   ;this is the defblock
   {;:something {:a ~(+ 1 2)}
    :a (hash-map :a 1 :b 2)
