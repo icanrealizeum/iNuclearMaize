@@ -1,6 +1,6 @@
 # dmentaLnx  (formerly known as demLinks)
 
-dmentaLnx is (a work in progress) something to improve accessibility... (FIXME)
+dmentaLnx is (a work in progress) something to improve accessibility... (FIXME)  
 Maybe it's like replacing RAM(random access memory) with graphs(edges&nodes).
 
 Original location of all this: https://github.com/zazdxscf/dmentaLnx
