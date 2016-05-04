@@ -6,14 +6,15 @@ The project name (respeccing) is temporary.
 
 ## Usage
 
-FIXME: nothing here yet, we'll go the Rust way soon.
+FIXME: nothing here yet, we'll go the Rust way soon. (but I need to install GuixSD first and likely learn how to use emacs, and guile/scheme ...)
 
 ## License
 
-Copyright © 2005-2016 Emanuel Czirai
-Licensed under Apache License Version 2.0  (see file: LICENSE )
+see the file: UNLICENSE
 
-Text/docs/images licensed under Creative Commons Attribution 4.0 International Public License (CC BY 4.0) see: https://creativecommons.org/licenses/by/4.0/
+Text/docs/images licensed under CC0 Creative Commons Attribution 4.0 International Public License (CC BY 4.0) see: https://creativecommons.org/licenses/by/4.0/
+
+FIXME: what's the unlicense equivalent of the above ^ ?!! TELL ME!!!! (If it's CC0, then I don't know how to use it! and unlicense seems to apply only to software/code)
 
 
 
