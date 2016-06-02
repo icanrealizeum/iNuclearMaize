@@ -1,8 +1,8 @@
-# respeccing
+# Arcane Zeta Tali Ilium
 
-respeccing is (a work in progress) something to improve accessibility... (FIXME)  
-Maybe it's like replacing RAM(random access memory) with graphs(edges&nodes) and use that as a foundation for building up systems and subsystems (stacked CPUs+databases?)  
-The project name (respeccing) is temporary.
+Arcane Zeta Tali Ilium is (a work in progress) something to improve accessibility... (FIXME)  
+Think replacing RAM(random access memory) with graphs(edges&nodes) and use that as a foundation for building up systems and subsystems (stacked CPUs+databases?)  
+The project name is temporary.
 
 ## Usage
 
