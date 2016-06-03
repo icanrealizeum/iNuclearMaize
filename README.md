@@ -6,7 +6,7 @@ The project name is temporary.
 
 ## Usage
 
-FIXME: nothing here yet, we'll go the Rust way soon. (but I need to install GuixSD first and likely learn how to use emacs, and guile/scheme ...)
+FIXME: nothing here yet, we'll go the Rust way soon.
 
 
 
