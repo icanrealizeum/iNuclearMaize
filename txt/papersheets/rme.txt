@@ -1,6 +1,8 @@
 These are the dmentaLnx (formerly known as demlinks) paper sheets which I used irl as I was brainstorming through time
-Copyright (C) 2002-2015 Emanuel Czirai, licensed under CC BY 4.0
-Original location of all this: https://github.com/zazdxscf/dmentaLnx  in subfolders of txt/papersheets/
+Made between 2002-2015 by Emanuel Czirai, licensed under CC0 and/or UNLICENSE!
+Original location of all this:
+https://github.com/ActualizeInMaterial/ArcaneZetaTaliIlium
+in subfolders of txt/papersheets/
 
 ----
 *.JPG = exported with gimp (to clean exif and any/all metadata) but image unmodified(kinda, since it's jpeg => re-econded on export) 
@@ -21,3 +23,7 @@ find . -type f -iname '*.jpg' -exec jpeginfo -c {} \; | grep -E "WARNING|ERROR"
 (manually retyped here, due to missing copy/paste functionality atm - virtualbox)
 
 
+--------
+files with year 2000 is actually year 2015 ! (but couldn't set it on the
+device!)
+----------
