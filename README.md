@@ -1,6 +1,6 @@
-# Arcane Zeta Tali Ilium
+# iNuclearMaize
 
-Arcane Zeta Tali Ilium is (a work in progress) something to improve accessibility... (FIXME)  
+iNuclearMaize is (a work in progress) something to improve accessibility... (FIXME)  
 Think replacing RAM(random access memory) with graphs(edges&nodes) and use that as a foundation for building up systems and subsystems (stacked CPUs+databases?)  
 The project name is temporary.
 

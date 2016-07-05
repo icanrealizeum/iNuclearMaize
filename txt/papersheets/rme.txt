@@ -1,7 +1,7 @@
 These are the demlinks paper sheets which I used irl as I was brainstorming through time
-Made between 2002-2015 by ActualizeInMaterial, licensed under CC0 and/or UNLICENSE!
-Original location of all this:
-https://github.com/ActualizeInMaterial/ArcaneZetaTaliIlium
+Made between 2002-2016 by icanrealizeum, licensed under CC0 and/or UNLICENSE!
+Location of all this:
+https://github.com/icanrealizeum/iNuclearMaize
 in subfolders of txt/papersheets/
 
 ----
